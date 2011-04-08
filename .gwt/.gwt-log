@@ -1,0 +1,1401 @@
+Module location: file:/D:/Glenn/projects/glenn_gwt/TestProject/src/awris/gwttest/TestProject.gwt.xml
+Loading inherited module 'com.google.gwt.user.User'
+   Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/user/User.gwt.xml
+   Loading inherited module 'com.google.gwt.core.Core'
+      Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/core/Core.gwt.xml
+      Loading inherited module 'com.google.gwt.dev.jjs.intrinsic.Intrinsic'
+         Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-dev.jar!/com/google/gwt/dev/jjs/intrinsic/Intrinsic.gwt.xml
+         Loading inherited module 'com.google.gwt.lang.LongLib'
+            Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gdt.eclipse.designer.hosted.2_0.super_2.2.0.r36x201102111446.jar!/com/google/gwt/lang/LongLib.gwt.xml
+      Loading inherited module 'com.google.gwt.emul.Emulation'
+         Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/emul/Emulation.gwt.xml
+         Loading inherited module 'com.google.gwt.logging.LogImpl'
+            Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/logging/LogImpl.gwt.xml
+      Loading inherited module 'com.google.gwt.xhr.XMLHttpRequest'
+         Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/xhr/XMLHttpRequest.gwt.xml
+         Loading inherited module 'com.google.gwt.core.Core'
+            Module 'com.google.gwt.core.Core' has already been loaded and will be skipped
+      Loading inherited module 'com.google.gwt.core.CompilerParameters'
+         Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/core/CompilerParameters.gwt.xml
+      Loading inherited module 'com.google.gwt.core.EmulateJsStack'
+         Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/core/EmulateJsStack.gwt.xml
+         Loading inherited module 'com.google.gwt.core.Core'
+            Module 'com.google.gwt.core.Core' has already been loaded and will be skipped
+      Loading inherited module 'com.google.gwt.core.AsyncFragmentLoader'
+         Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/core/AsyncFragmentLoader.gwt.xml
+      Loading inherited module 'com.google.gwt.core.XSLinker'
+         Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/core/XSLinker.gwt.xml
+      Loading inherited module 'com.google.gwt.core.CrossSiteIframeLinker'
+         Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/core/CrossSiteIframeLinker.gwt.xml
+   Loading inherited module 'com.google.gwt.text.Text'
+      Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/text/Text.gwt.xml
+      Loading inherited module 'com.google.gwt.core.Core'
+         Module 'com.google.gwt.core.Core' has already been loaded and will be skipped
+   Loading inherited module 'com.google.gwt.event.Event'
+      Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/event/Event.gwt.xml
+      Loading inherited module 'com.google.gwt.event.EventBase'
+         Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/event/EventBase.gwt.xml
+         Loading inherited module 'com.google.gwt.core.Core'
+            Module 'com.google.gwt.core.Core' has already been loaded and will be skipped
+      Loading inherited module 'com.google.gwt.event.dom.DomEvent'
+         Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/event/dom/DomEvent.gwt.xml
+         Loading inherited module 'com.google.gwt.event.EventBase'
+            Module 'com.google.gwt.event.EventBase' has already been loaded and will be skipped
+         Loading inherited module 'com.google.gwt.dom.DOM'
+            Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/dom/DOM.gwt.xml
+            Loading inherited module 'com.google.gwt.core.Core'
+               Module 'com.google.gwt.core.Core' has already been loaded and will be skipped
+            Loading inherited module 'com.google.gwt.user.UserAgent'
+               Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/user/UserAgent.gwt.xml
+               Loading inherited module 'com.google.gwt.emul.EmulationWithUserAgent'
+                  Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/emul/EmulationWithUserAgent.gwt.xml
+                  Loading inherited module 'com.google.gwt.emul.Emulation'
+                     Module 'com.google.gwt.emul.Emulation' has already been loaded and will be skipped
+               Loading inherited module 'com.google.gwt.core.CoreWithUserAgent'
+                  Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/core/CoreWithUserAgent.gwt.xml
+                  Loading inherited module 'com.google.gwt.core.Core'
+                     Module 'com.google.gwt.core.Core' has already been loaded and will be skipped
+      Loading inherited module 'com.google.gwt.event.logical.LogicalEvent'
+         Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/event/logical/LogicalEvent.gwt.xml
+         Loading inherited module 'com.google.gwt.event.EventBase'
+            Module 'com.google.gwt.event.EventBase' has already been loaded and will be skipped
+   Loading inherited module 'com.google.gwt.animation.Animation'
+      Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/animation/Animation.gwt.xml
+      Loading inherited module 'com.google.gwt.core.Core'
+         Module 'com.google.gwt.core.Core' has already been loaded and will be skipped
+      Loading inherited module 'com.google.gwt.user.User'
+         Module 'com.google.gwt.user.User' has already been loaded and will be skipped
+   Loading inherited module 'com.google.gwt.editor.Editor'
+      Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/editor/Editor.gwt.xml
+      Loading inherited module 'com.google.gwt.core.Core'
+         Module 'com.google.gwt.core.Core' has already been loaded and will be skipped
+   Loading inherited module 'com.google.gwt.resources.Resources'
+      Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/resources/Resources.gwt.xml
+      Loading inherited module 'com.google.gwt.core.Core'
+         Module 'com.google.gwt.core.Core' has already been loaded and will be skipped
+      Loading inherited module 'com.google.gwt.dom.DOM'
+         Module 'com.google.gwt.dom.DOM' has already been loaded and will be skipped
+      Loading inherited module 'com.google.gwt.http.HTTP'
+         Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/http/HTTP.gwt.xml
+         Loading inherited module 'com.google.gwt.core.Core'
+            Module 'com.google.gwt.core.Core' has already been loaded and will be skipped
+         Loading inherited module 'com.google.gwt.xhr.XMLHttpRequest'
+            Module 'com.google.gwt.xhr.XMLHttpRequest' has already been loaded and will be skipped
+         Loading inherited module 'com.google.gwt.user.User'
+            Module 'com.google.gwt.user.User' has already been loaded and will be skipped
+   Loading inherited module 'com.google.gwt.layout.Layout'
+      Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/layout/Layout.gwt.xml
+      Loading inherited module 'com.google.gwt.core.Core'
+         Module 'com.google.gwt.core.Core' has already been loaded and will be skipped
+      Loading inherited module 'com.google.gwt.user.UserAgent'
+         Module 'com.google.gwt.user.UserAgent' has already been loaded and will be skipped
+      Loading inherited module 'com.google.gwt.dom.DOM'
+         Module 'com.google.gwt.dom.DOM' has already been loaded and will be skipped
+      Loading inherited module 'com.google.gwt.animation.Animation'
+         Module 'com.google.gwt.animation.Animation' has already been loaded and will be skipped
+   Loading inherited module 'com.google.gwt.uibinder.UiBinder'
+      Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/uibinder/UiBinder.gwt.xml
+      Loading inherited module 'com.google.gwt.resources.Resources'
+         Module 'com.google.gwt.resources.Resources' has already been loaded and will be skipped
+   Loading inherited module 'com.google.gwt.user.AsyncProxy'
+      Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/user/AsyncProxy.gwt.xml
+   Loading inherited module 'com.google.gwt.user.RemoteService'
+      Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/user/RemoteService.gwt.xml
+      Loading inherited module 'com.google.gwt.http.HTTP'
+         Module 'com.google.gwt.http.HTTP' has already been loaded and will be skipped
+   Loading inherited module 'com.google.gwt.user.DocumentRoot'
+      Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/user/DocumentRoot.gwt.xml
+      Loading inherited module 'com.google.gwt.core.Core'
+         Module 'com.google.gwt.core.Core' has already been loaded and will be skipped
+      Loading inherited module 'com.google.gwt.user.UserAgent'
+         Module 'com.google.gwt.user.UserAgent' has already been loaded and will be skipped
+   Loading inherited module 'com.google.gwt.user.DOM'
+      Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/user/DOM.gwt.xml
+      Loading inherited module 'com.google.gwt.core.Core'
+         Module 'com.google.gwt.core.Core' has already been loaded and will be skipped
+      Loading inherited module 'com.google.gwt.dom.DOM'
+         Module 'com.google.gwt.dom.DOM' has already been loaded and will be skipped
+      Loading inherited module 'com.google.gwt.user.UserAgent'
+         Module 'com.google.gwt.user.UserAgent' has already been loaded and will be skipped
+   Loading inherited module 'com.google.gwt.user.Window'
+      Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/user/Window.gwt.xml
+      Loading inherited module 'com.google.gwt.core.Core'
+         Module 'com.google.gwt.core.Core' has already been loaded and will be skipped
+      Loading inherited module 'com.google.gwt.user.UserAgent'
+         Module 'com.google.gwt.user.UserAgent' has already been loaded and will be skipped
+   Loading inherited module 'com.google.gwt.user.HTTPRequest'
+      Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/user/HTTPRequest.gwt.xml
+      Loading inherited module 'com.google.gwt.core.Core'
+         Module 'com.google.gwt.core.Core' has already been loaded and will be skipped
+      Loading inherited module 'com.google.gwt.xhr.XMLHttpRequest'
+         Module 'com.google.gwt.xhr.XMLHttpRequest' has already been loaded and will be skipped
+   Loading inherited module 'com.google.gwt.user.History'
+      Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/user/History.gwt.xml
+      Loading inherited module 'com.google.gwt.core.Core'
+         Module 'com.google.gwt.core.Core' has already been loaded and will be skipped
+      Loading inherited module 'com.google.gwt.user.UserAgent'
+         Module 'com.google.gwt.user.UserAgent' has already been loaded and will be skipped
+   Loading inherited module 'com.google.gwt.i18n.I18N'
+      Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/i18n/I18N.gwt.xml
+      Loading inherited module 'com.google.gwt.regexp.RegExp'
+         Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/regexp/RegExp.gwt.xml
+      Loading inherited module 'com.google.gwt.safehtml.SafeHtml'
+         Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/safehtml/SafeHtml.gwt.xml
+         Loading inherited module 'com.google.gwt.regexp.RegExp'
+            Module 'com.google.gwt.regexp.RegExp' has already been loaded and will be skipped
+   Loading inherited module 'com.google.gwt.user.Popup'
+      Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/user/Popup.gwt.xml
+      Loading inherited module 'com.google.gwt.core.Core'
+         Module 'com.google.gwt.core.Core' has already been loaded and will be skipped
+      Loading inherited module 'com.google.gwt.user.UserAgent'
+         Module 'com.google.gwt.user.UserAgent' has already been loaded and will be skipped
+   Loading inherited module 'com.google.gwt.user.Form'
+      Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/user/Form.gwt.xml
+      Loading inherited module 'com.google.gwt.core.Core'
+         Module 'com.google.gwt.core.Core' has already been loaded and will be skipped
+      Loading inherited module 'com.google.gwt.user.UserAgent'
+         Module 'com.google.gwt.user.UserAgent' has already been loaded and will be skipped
+   Loading inherited module 'com.google.gwt.user.TextBox'
+      Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/user/TextBox.gwt.xml
+      Loading inherited module 'com.google.gwt.core.Core'
+         Module 'com.google.gwt.core.Core' has already been loaded and will be skipped
+      Loading inherited module 'com.google.gwt.user.UserAgent'
+         Module 'com.google.gwt.user.UserAgent' has already been loaded and will be skipped
+   Loading inherited module 'com.google.gwt.user.Focus'
+      Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/user/Focus.gwt.xml
+      Loading inherited module 'com.google.gwt.core.Core'
+         Module 'com.google.gwt.core.Core' has already been loaded and will be skipped
+      Loading inherited module 'com.google.gwt.user.UserAgent'
+         Module 'com.google.gwt.user.UserAgent' has already been loaded and will be skipped
+   Loading inherited module 'com.google.gwt.user.ImageBundle'
+      Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/user/ImageBundle.gwt.xml
+      Loading inherited module 'com.google.gwt.user.ClippedImage'
+         Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/user/ClippedImage.gwt.xml
+         Loading inherited module 'com.google.gwt.core.Core'
+            Module 'com.google.gwt.core.Core' has already been loaded and will be skipped
+         Loading inherited module 'com.google.gwt.user.UserAgent'
+            Module 'com.google.gwt.user.UserAgent' has already been loaded and will be skipped
+   Loading inherited module 'com.google.gwt.user.ClippedImage'
+      Module 'com.google.gwt.user.ClippedImage' has already been loaded and will be skipped
+   Loading inherited module 'com.google.gwt.user.RichText'
+      Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/user/RichText.gwt.xml
+      Loading inherited module 'com.google.gwt.core.Core'
+         Module 'com.google.gwt.core.Core' has already been loaded and will be skipped
+      Loading inherited module 'com.google.gwt.user.UserAgent'
+         Module 'com.google.gwt.user.UserAgent' has already been loaded and will be skipped
+   Loading inherited module 'com.google.gwt.user.SplitPanel'
+      Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/user/SplitPanel.gwt.xml
+      Loading inherited module 'com.google.gwt.user.User'
+         Module 'com.google.gwt.user.User' has already been loaded and will be skipped
+   Loading inherited module 'com.google.gwt.user.CaptionPanel'
+      Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/user/CaptionPanel.gwt.xml
+      Loading inherited module 'com.google.gwt.core.Core'
+         Module 'com.google.gwt.core.Core' has already been loaded and will be skipped
+      Loading inherited module 'com.google.gwt.user.UserAgent'
+         Module 'com.google.gwt.user.UserAgent' has already been loaded and will be skipped
+   Loading inherited module 'com.google.gwt.user.Window'
+      Module 'com.google.gwt.user.Window' has already been loaded and will be skipped
+   Loading inherited module 'com.google.gwt.user.Tree'
+      Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/user/Tree.gwt.xml
+      Loading inherited module 'com.google.gwt.core.Core'
+         Module 'com.google.gwt.core.Core' has already been loaded and will be skipped
+      Loading inherited module 'com.google.gwt.user.UserAgent'
+         Module 'com.google.gwt.user.UserAgent' has already been loaded and will be skipped
+   Loading inherited module 'com.google.gwt.user.Hyperlink'
+      Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/user/Hyperlink.gwt.xml
+      Loading inherited module 'com.google.gwt.core.Core'
+         Module 'com.google.gwt.core.Core' has already been loaded and will be skipped
+      Loading inherited module 'com.google.gwt.user.UserAgent'
+         Module 'com.google.gwt.user.UserAgent' has already been loaded and will be skipped
+   Loading inherited module 'com.google.gwt.user.FileUpload'
+      Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/user/FileUpload.gwt.xml
+      Loading inherited module 'com.google.gwt.core.Core'
+         Module 'com.google.gwt.core.Core' has already been loaded and will be skipped
+      Loading inherited module 'com.google.gwt.user.UserAgent'
+         Module 'com.google.gwt.user.UserAgent' has already been loaded and will be skipped
+   Loading inherited module 'com.google.gwt.user.datepicker.DatePicker'
+      Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/user/datepicker/DatePicker.gwt.xml
+   Loading inherited module 'com.google.gwt.user.cellview.CellView'
+      Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/user/cellview/CellView.gwt.xml
+      Loading inherited module 'com.google.gwt.user.User'
+         Module 'com.google.gwt.user.User' has already been loaded and will be skipped
+      Loading inherited module 'com.google.gwt.cell.Cell'
+         Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/cell/Cell.gwt.xml
+         Loading inherited module 'com.google.gwt.dom.DOM'
+            Module 'com.google.gwt.dom.DOM' has already been loaded and will be skipped
+         Loading inherited module 'com.google.gwt.safehtml.SafeHtml'
+            Module 'com.google.gwt.safehtml.SafeHtml' has already been loaded and will be skipped
+         Loading inherited module 'com.google.gwt.text.Text'
+            Module 'com.google.gwt.text.Text' has already been loaded and will be skipped
+      Loading inherited module 'com.google.gwt.view.View'
+         Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/view/View.gwt.xml
+         Loading inherited module 'com.google.gwt.core.Core'
+            Module 'com.google.gwt.core.Core' has already been loaded and will be skipped
+      Loading inherited module 'com.google.gwt.user.UserAgent'
+         Module 'com.google.gwt.user.UserAgent' has already been loaded and will be skipped
+   Loading inherited module 'com.google.gwt.safehtml.SafeHtml'
+      Module 'com.google.gwt.safehtml.SafeHtml' has already been loaded and will be skipped
+Loading inherited module 'com.google.gwt.user.theme.standard.Standard'
+   Module location: jar:file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar!/com/google/gwt/user/theme/standard/Standard.gwt.xml
+Public resources found in...
+   Refreshing resources
+      Searching for resources within file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar
+         Indexing zip file: D:\Glenn\apps\Eclipse3.6x32\plugins\com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127\gwt-2.1.1\gwt-user.jar
+      Searching for resources within file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-dev.jar
+         Indexing zip file: D:\Glenn\apps\Eclipse3.6x32\plugins\com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127\gwt-2.1.1\gwt-dev.jar
+Translatable source found in...
+   Refreshing resources
+      Searching for resources within file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-user.jar
+         Indexing zip file: D:\Glenn\apps\Eclipse3.6x32\plugins\com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127\gwt-2.1.1\gwt-user.jar
+      Searching for resources within file:/D:/Glenn/apps/Eclipse3.6x32/plugins/com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127/gwt-2.1.1/gwt-dev.jar
+         Indexing zip file: D:\Glenn\apps\Eclipse3.6x32\plugins\com.google.gwt.eclipse.sdkbundle.2.1.1_2.1.1.v201012170127\gwt-2.1.1\gwt-dev.jar
+Removing invalidated units
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for percentPattern()
+         Generating method body for zeroDigit()
+         Generating method body for scientificPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for notANumber()
+         Generating method body for minusSign()
+         Generating method body for infinity()
+         Generating method body for exponentialSymbol()
+         Generating method body for plusSign()
+         Generating method body for currencyPattern()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for groupingSeparator()
+         Generating method body for perMill()
+         Generating method body for monetarySeparator()
+         Generating method body for decimalPattern()
+         Generating method body for percent()
+         Generating method body for defCurrencyCode()
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.important}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302151761671_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.important}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302151762921_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302151783609_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302151783671_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.important}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302151783765_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.important}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302151783812_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.important}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302151812156_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.important}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302151812218_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.important}
+         [ERROR] No field named style
+[ERROR] Deferred binding failed for 'awris.gwttest.client.EditorTest.EditorTestUiBinder'; expect subsequent failures
+Refreshing module 'testproject'
+   Refreshing resources
+   Refreshing resources
+   Refreshing resources
+Removing invalidated units
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for percentPattern()
+         Generating method body for zeroDigit()
+         Generating method body for scientificPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for notANumber()
+         Generating method body for minusSign()
+         Generating method body for infinity()
+         Generating method body for exponentialSymbol()
+         Generating method body for plusSign()
+         Generating method body for currencyPattern()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for groupingSeparator()
+         Generating method body for perMill()
+         Generating method body for monetarySeparator()
+         Generating method body for decimalPattern()
+         Generating method body for percent()
+         Generating method body for defCurrencyCode()
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.important}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302151842859_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.important}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302151843172_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.important}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302151868203_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.important}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302151876438_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.important}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302151876500_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Element may only contain a single child element, but found <g:RichTextArea> and <g:HTMLPanel>. Element <ui:UiBinder> (:3)
+[ERROR] Deferred binding failed for 'awris.gwttest.client.EditorTest.EditorTestUiBinder'; expect subsequent failures
+Refreshing module 'testproject'
+   Refreshing resources
+   Refreshing resources
+   Refreshing resources
+Removing invalidated units
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for percentPattern()
+         Generating method body for zeroDigit()
+         Generating method body for scientificPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for notANumber()
+         Generating method body for minusSign()
+         Generating method body for infinity()
+         Generating method body for exponentialSymbol()
+         Generating method body for plusSign()
+         Generating method body for currencyPattern()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for groupingSeparator()
+         Generating method body for perMill()
+         Generating method body for monetarySeparator()
+         Generating method body for decimalPattern()
+         Generating method body for percent()
+         Generating method body for defCurrencyCode()
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302151882813_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302151883094_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [WARN] g:DockPanel is deprecated. Use the g:DockLayoutPanel instead. Element <g:DockPanel> (:9)
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302151978627_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [WARN] g:DockPanel is deprecated. Use the g:DockLayoutPanel instead. Element <g:DockPanel> (:9)
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302151978689_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [WARN] g:DockPanel is deprecated. Use the g:DockLayoutPanel instead. Element <g:DockPanel> (:9)
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302151986611_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [WARN] g:DockPanel is deprecated. Use the g:DockLayoutPanel instead. Element <g:DockPanel> (:9)
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302151999674_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [WARN] g:DockPanel is deprecated. Use the g:DockLayoutPanel instead. Element <g:DockPanel> (:9)
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302152013111_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [WARN] g:DockPanel is deprecated. Use the g:DockLayoutPanel instead. Element <g:DockPanel> (:9)
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302152013174_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [WARN] g:DockPanel is deprecated. Use the g:DockLayoutPanel instead. Element <g:DockPanel> (:9)
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302152024315_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [WARN] g:DockPanel is deprecated. Use the g:DockLayoutPanel instead. Element <g:DockPanel> (:9)
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302152026440_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [WARN] g:DockPanel is deprecated. Use the g:DockLayoutPanel instead. Element <g:DockPanel> (:9)
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302152048050_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [WARN] g:DockPanel is deprecated. Use the g:DockLayoutPanel instead. Element <g:DockPanel> (:9)
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302152064847_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [WARN] g:DockPanel is deprecated. Use the g:DockLayoutPanel instead. Element <g:DockPanel> (:9)
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302152064909_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [WARN] g:DockPanel is deprecated. Use the g:DockLayoutPanel instead. Element <g:DockPanel> (:9)
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302152072707_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [WARN] g:DockPanel is deprecated. Use the g:DockLayoutPanel instead. Element <g:DockPanel> (:9)
+      [ERROR] Element may only contain a single child element, but found <g:Button text='Bold'> and <g:Button text='Italics'>. Element <g:Dock direction='NORTH'> (:10)
+[ERROR] Deferred binding failed for 'awris.gwttest.client.EditorTest.EditorTestUiBinder'; expect subsequent failures
+Refreshing module 'testproject'
+   Refreshing resources
+   Refreshing resources
+   Refreshing resources
+Removing invalidated units
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for percentPattern()
+         Generating method body for zeroDigit()
+         Generating method body for scientificPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for notANumber()
+         Generating method body for minusSign()
+         Generating method body for infinity()
+         Generating method body for exponentialSymbol()
+         Generating method body for plusSign()
+         Generating method body for currencyPattern()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for groupingSeparator()
+         Generating method body for perMill()
+         Generating method body for monetarySeparator()
+         Generating method body for decimalPattern()
+         Generating method body for percent()
+         Generating method body for defCurrencyCode()
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [WARN] g:DockPanel is deprecated. Use the g:DockLayoutPanel instead. Element <g:DockPanel> (:9)
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302152095942_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [WARN] g:DockPanel is deprecated. Use the g:DockLayoutPanel instead. Element <g:DockPanel> (:9)
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302152096254_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [WARN] g:DockPanel is deprecated. Use the g:DockLayoutPanel instead. Element <g:DockPanel> (:9)
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302152208195_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Must have either a src attribute or body text Element <ui:style> (:4)
+[ERROR] Deferred binding failed for 'awris.gwttest.client.EditorTest.EditorTestUiBinder'; expect subsequent failures
+Refreshing module 'testproject'
+   Refreshing resources
+   Refreshing resources
+   Refreshing resources
+Validating newly compiled units
+   [ERROR] Errors in 'file:/D:/Glenn/projects/glenn_gwt/TestProject/src/awris/gwttest/client/EditorTest.java'
+      [ERROR] Line 14: The type EditorTest must implement the inherited abstract method HasText.setText(String)
+      [ERROR] Line 14: The type EditorTest must implement the inherited abstract method HasText.getText()
+Removing invalidated units
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for percentPattern()
+         Generating method body for zeroDigit()
+         Generating method body for scientificPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for notANumber()
+         Generating method body for minusSign()
+         Generating method body for infinity()
+         Generating method body for exponentialSymbol()
+         Generating method body for plusSign()
+         Generating method body for currencyPattern()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for groupingSeparator()
+         Generating method body for perMill()
+         Generating method body for monetarySeparator()
+         Generating method body for decimalPattern()
+         Generating method body for percent()
+         Generating method body for defCurrencyCode()
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Must have either a src attribute or body text Element <ui:style> (:4)
+[ERROR] Deferred binding failed for 'awris.gwttest.client.EditorTest.EditorTestUiBinder'; expect subsequent failures
+Rebinding com.google.gwt.core.client.impl.SchedulerImpl
+   [WARN] For the following type(s), generated source was never committed (did you forget to call commit()?)
+      [WARN] awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302152303823
+Refreshing module 'testproject'
+   Refreshing resources
+   Refreshing resources
+   Refreshing resources
+Validating newly compiled units
+   [ERROR] Errors in 'file:/D:/Glenn/projects/glenn_gwt/TestProject/src/awris/gwttest/client/EditorTest.java'
+      [ERROR] Line 31: button cannot be resolved
+      [ERROR] Line 40: button cannot be resolved
+      [ERROR] Line 44: button cannot be resolved
+Removing invalidated units
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for percentPattern()
+         Generating method body for zeroDigit()
+         Generating method body for scientificPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for notANumber()
+         Generating method body for minusSign()
+         Generating method body for infinity()
+         Generating method body for exponentialSymbol()
+         Generating method body for plusSign()
+         Generating method body for currencyPattern()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for groupingSeparator()
+         Generating method body for perMill()
+         Generating method body for monetarySeparator()
+         Generating method body for decimalPattern()
+         Generating method body for percent()
+         Generating method body for defCurrencyCode()
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [WARN] g:DockPanel is deprecated. Use the g:DockLayoutPanel instead. Element <g:DockPanel> (:9)
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302152407686_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [WARN] g:DockPanel is deprecated. Use the g:DockLayoutPanel instead. Element <g:DockPanel> (:9)
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302152408015_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [WARN] g:DockPanel is deprecated. Use the g:DockLayoutPanel instead. Element <g:DockPanel> (:9)
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302152957833_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [WARN] g:DockPanel is deprecated. Use the g:DockLayoutPanel instead. Element <g:DockPanel> (:9)
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302152957895_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [WARN] g:DockPanel is deprecated. Use the g:DockLayoutPanel instead. Element <g:DockPanel class='AwrisRichTextEditor'> (:17)
+      [ERROR] Class Button has no appropriate setClass() method Element <g:Button class='AwrisRichTextEditorButton' text='Bold' ui:field='btnBold'> (:20)
+[ERROR] Deferred binding failed for 'awris.gwttest.client.EditorTest.EditorTestUiBinder'; expect subsequent failures
+Refreshing module 'testproject'
+   Refreshing resources
+   Refreshing resources
+   Refreshing resources
+Removing invalidated units
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for percentPattern()
+         Generating method body for zeroDigit()
+         Generating method body for scientificPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for notANumber()
+         Generating method body for minusSign()
+         Generating method body for infinity()
+         Generating method body for exponentialSymbol()
+         Generating method body for plusSign()
+         Generating method body for currencyPattern()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for groupingSeparator()
+         Generating method body for perMill()
+         Generating method body for monetarySeparator()
+         Generating method body for decimalPattern()
+         Generating method body for percent()
+         Generating method body for defCurrencyCode()
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [WARN] g:DockPanel is deprecated. Use the g:DockLayoutPanel instead. Element <g:DockPanel class='AwrisRichTextEditor'> (:17)
+      [ERROR] Class Button has no appropriate setClass() method Element <g:Button class='AwrisRichTextEditorButton' text='Bold' ui:field='btnBold'> (:20)
+[ERROR] Deferred binding failed for 'awris.gwttest.client.EditorTest.EditorTestUiBinder'; expect subsequent failures
+Rebinding com.google.gwt.core.client.impl.SchedulerImpl
+   [WARN] For the following type(s), generated source was never committed (did you forget to call commit()?)
+      [WARN] awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302153234031
+Refreshing module 'testproject'
+   Refreshing resources
+   Refreshing resources
+   Refreshing resources
+Removing invalidated units
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for percentPattern()
+         Generating method body for zeroDigit()
+         Generating method body for scientificPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for notANumber()
+         Generating method body for minusSign()
+         Generating method body for infinity()
+         Generating method body for exponentialSymbol()
+         Generating method body for plusSign()
+         Generating method body for currencyPattern()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for groupingSeparator()
+         Generating method body for perMill()
+         Generating method body for monetarySeparator()
+         Generating method body for decimalPattern()
+         Generating method body for percent()
+         Generating method body for defCurrencyCode()
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] The element type "g:DockLayoutPanel" must be terminated by the matching end-tag "</g:DockLayoutPanel>".
+      [ERROR] Error parsing XML (line 28): The element type "g:DockLayoutPanel" must be terminated by the matching end-tag "</g:DockLayoutPanel>".
+[ERROR] Deferred binding failed for 'awris.gwttest.client.EditorTest.EditorTestUiBinder'; expect subsequent failures
+Rebinding com.google.gwt.core.client.impl.SchedulerImpl
+   [WARN] For the following type(s), generated source was never committed (did you forget to call commit()?)
+      [WARN] awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302153611639
+Refreshing module 'testproject'
+   Refreshing resources
+   Refreshing resources
+   Refreshing resources
+Removing invalidated units
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for percentPattern()
+         Generating method body for zeroDigit()
+         Generating method body for scientificPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for notANumber()
+         Generating method body for minusSign()
+         Generating method body for infinity()
+         Generating method body for exponentialSymbol()
+         Generating method body for plusSign()
+         Generating method body for currencyPattern()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for groupingSeparator()
+         Generating method body for perMill()
+         Generating method body for monetarySeparator()
+         Generating method body for decimalPattern()
+         Generating method body for percent()
+         Generating method body for defCurrencyCode()
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Class Button has no appropriate setClass() method Element <g:Button class='{style.AwrisRichTextEditorButton}' text='Bold' ui:field='btnBold'> (:20)
+[ERROR] Deferred binding failed for 'awris.gwttest.client.EditorTest.EditorTestUiBinder'; expect subsequent failures
+Rebinding com.google.gwt.core.client.impl.SchedulerImpl
+   [WARN] For the following type(s), generated source was never committed (did you forget to call commit()?)
+      [WARN] awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302153624436
+Refreshing module 'testproject'
+   Refreshing resources
+   Refreshing resources
+   Refreshing resources
+Removing invalidated units
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for percentPattern()
+         Generating method body for zeroDigit()
+         Generating method body for scientificPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for notANumber()
+         Generating method body for minusSign()
+         Generating method body for infinity()
+         Generating method body for exponentialSymbol()
+         Generating method body for plusSign()
+         Generating method body for currencyPattern()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for groupingSeparator()
+         Generating method body for perMill()
+         Generating method body for monetarySeparator()
+         Generating method body for decimalPattern()
+         Generating method body for percent()
+         Generating method body for defCurrencyCode()
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Missing required attribute "size" Element <g:north> (:18)
+[ERROR] Deferred binding failed for 'awris.gwttest.client.EditorTest.EditorTestUiBinder'; expect subsequent failures
+Rebinding com.google.gwt.core.client.impl.SchedulerImpl
+   [WARN] For the following type(s), generated source was never committed (did you forget to call commit()?)
+      [WARN] awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302153705096
+Refreshing module 'testproject'
+   Refreshing resources
+   Refreshing resources
+   Refreshing resources
+Removing invalidated units
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for percentPattern()
+         Generating method body for zeroDigit()
+         Generating method body for scientificPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for notANumber()
+         Generating method body for minusSign()
+         Generating method body for infinity()
+         Generating method body for exponentialSymbol()
+         Generating method body for plusSign()
+         Generating method body for currencyPattern()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for groupingSeparator()
+         Generating method body for perMill()
+         Generating method body for monetarySeparator()
+         Generating method body for decimalPattern()
+         Generating method body for percent()
+         Generating method body for defCurrencyCode()
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Found widget in an HTML context Element <g:Anchor text='Bold' ui:field='btnBold'> (:19)
+[ERROR] Deferred binding failed for 'awris.gwttest.client.EditorTest.EditorTestUiBinder'; expect subsequent failures
+Rebinding com.google.gwt.core.client.impl.SchedulerImpl
+   [WARN] For the following type(s), generated source was never committed (did you forget to call commit()?)
+      [WARN] awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302154072922
+Refreshing module 'testproject'
+   Refreshing resources
+   Refreshing resources
+   Refreshing resources
+Removing invalidated units
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for percentPattern()
+         Generating method body for zeroDigit()
+         Generating method body for scientificPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for notANumber()
+         Generating method body for minusSign()
+         Generating method body for infinity()
+         Generating method body for exponentialSymbol()
+         Generating method body for plusSign()
+         Generating method body for currencyPattern()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for groupingSeparator()
+         Generating method body for perMill()
+         Generating method body for monetarySeparator()
+         Generating method body for decimalPattern()
+         Generating method body for percent()
+         Generating method body for defCurrencyCode()
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.AwrisRichTextEditor}
+   Adding '3' new generated units
+      Validating newly compiled units
+         [ERROR] Errors in 'generated://718551CE9C0E27448F6C9406236791E9/awris/gwttest/client/EditorTest_EditorTestUiBinderImpl_designTime1302154174192.java'
+            [ERROR] Line 36: Type mismatch: cannot convert from DivElement to Widget
+            See snapshot: C:\DOCUME~1\ghudson\LOCALS~1\Temp\EditorTest_EditorTestUiBinderImpl_designTime13021541741922678990427767753935.java
+      Removing invalidated units
+Refreshing module 'testproject'
+   Refreshing resources
+   Refreshing resources
+   Refreshing resources
+Removing invalidated units
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for percentPattern()
+         Generating method body for zeroDigit()
+         Generating method body for scientificPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for notANumber()
+         Generating method body for minusSign()
+         Generating method body for infinity()
+         Generating method body for exponentialSymbol()
+         Generating method body for plusSign()
+         Generating method body for currencyPattern()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for groupingSeparator()
+         Generating method body for perMill()
+         Generating method body for monetarySeparator()
+         Generating method body for decimalPattern()
+         Generating method body for percent()
+         Generating method body for defCurrencyCode()
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.AwrisRichTextEditor}
+   Adding '3' new generated units
+      Validating newly compiled units
+         [ERROR] Errors in 'generated://F953C9ED88A324B013D65140ED2AB993/awris/gwttest/client/EditorTest_EditorTestUiBinderImpl_designTime1302154221834.java'
+            [ERROR] Line 36: Type mismatch: cannot convert from DivElement to Widget
+            See snapshot: C:\DOCUME~1\ghudson\LOCALS~1\Temp\EditorTest_EditorTestUiBinderImpl_designTime13021542218347118162737760157217.java
+      Removing invalidated units
+Refreshing module 'testproject'
+   Refreshing resources
+   Refreshing resources
+   Refreshing resources
+Removing invalidated units
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for percentPattern()
+         Generating method body for zeroDigit()
+         Generating method body for scientificPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for notANumber()
+         Generating method body for minusSign()
+         Generating method body for infinity()
+         Generating method body for exponentialSymbol()
+         Generating method body for plusSign()
+         Generating method body for currencyPattern()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for groupingSeparator()
+         Generating method body for perMill()
+         Generating method body for monetarySeparator()
+         Generating method body for decimalPattern()
+         Generating method body for percent()
+         Generating method body for defCurrencyCode()
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Class HTMLPanel has no appropriate setClass() method Element <g:HTMLPanel class='{style.AwrisRichTextEditor}'> (:17)
+[ERROR] Deferred binding failed for 'awris.gwttest.client.EditorTest.EditorTestUiBinder'; expect subsequent failures
+Rebinding com.google.gwt.core.client.impl.SchedulerImpl
+   [WARN] For the following type(s), generated source was never committed (did you forget to call commit()?)
+      [WARN] awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302154335182
+Refreshing module 'testproject'
+   Refreshing resources
+   Refreshing resources
+   Refreshing resources
+Removing invalidated units
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for percentPattern()
+         Generating method body for zeroDigit()
+         Generating method body for scientificPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for notANumber()
+         Generating method body for minusSign()
+         Generating method body for infinity()
+         Generating method body for exponentialSymbol()
+         Generating method body for plusSign()
+         Generating method body for currencyPattern()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for groupingSeparator()
+         Generating method body for perMill()
+         Generating method body for monetarySeparator()
+         Generating method body for decimalPattern()
+         Generating method body for percent()
+         Generating method body for defCurrencyCode()
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.AwrisRichTextEditor}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302154374387_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.AwrisRichTextEditor}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302154374653_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.AwrisRichTextEditor}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302154435061_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.AwrisRichTextEditor}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302154435233_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.AwrisRichTextEditor}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302154455578_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.AwrisRichTextEditor}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302154455640_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.AwrisRichTextEditor}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302154472125_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.AwrisRichTextEditor}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302154472203_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.AwrisRichTextEditor}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302154496314_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.AwrisRichTextEditor}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302154496392_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.AwrisRichTextEditorButton}
+      validating {style.AwrisRichTextEditor}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302154510111_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.AwrisRichTextEditorButton}
+      validating {style.AwrisRichTextEditor}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302154510173_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.AwrisRichTextEditorButton}
+      validating {style.AwrisRichTextEditor}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302154519799_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.AwrisRichTextEditorButton}
+      validating {style.AwrisRichTextEditor}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302154519861_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.AwrisRichTextEditorButton}
+      validating {style.AwrisRichTextEditor}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302154529018_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.AwrisRichTextEditorButton}
+      validating {style.AwrisRichTextEditor}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302154529080_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.AwrisRichTextEditorButton}
+      validating {style.AwrisRichTextEditor}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302154568379_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.AwrisRichTextEditorButton}
+      validating {style.AwrisRichTextEditor}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302154568457_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.AwrisRichTextEditorButton}
+      validating {style.AwrisRichTextEditor}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302154572629_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.AwrisRichTextEditorButton}
+      validating {style.AwrisRichTextEditor}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302154572691_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.AwrisRichTextEditorButton}
+      validating {style.AwrisRichTextEditor}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302154580286_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.AwrisRichTextEditorButton}
+      validating {style.AwrisRichTextEditor}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302154580364_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.AwrisRichTextEditorButton}
+      validating {style.AwrisRichTextEditor}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302154604052_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.AwrisRichTextEditorButton}
+      validating {style.AwrisRichTextEditor}
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302154604130_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.btnStyle}
+      validating {btnStyle.bold}
+      validating {btnStyle.italic}
+      validating {btnStyle.underline}
+      validating {style.AwrisRichTextEditor}
+   Adding '4' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302156314488_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.btnStyle}
+      validating {btnStyle.bold}
+      validating {btnStyle.italic}
+      validating {btnStyle.underline}
+      validating {style.AwrisRichTextEditor}
+   Adding '4' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302156314581_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.btnPanel}
+      validating {btnStyle.bold}
+      validating {btnStyle.italic}
+      validating {btnStyle.underline}
+      validating {btnStyle.strikethrough}
+      validating {style.AwrisRichTextEditor}
+   Adding '4' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302162699481_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.btnPanel}
+      validating {btnStyle.bold}
+      validating {btnStyle.italic}
+      validating {btnStyle.underline}
+      validating {btnStyle.strikethrough}
+      validating {style.AwrisRichTextEditor}
+   Adding '4' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302162699574_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.btnPanel}
+      validating {btnStyle.bold}
+      validating {btnStyle.italic}
+      validating {btnStyle.underline}
+      validating {btnStyle.strikethrough}
+      validating {style.AwrisRichTextEditor}
+   Adding '4' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302162713841_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.btnPanel}
+      validating {btnStyle.bold}
+      validating {btnStyle.italic}
+      validating {btnStyle.underline}
+      validating {btnStyle.strikethrough}
+      validating {style.richTextArea}
+      validating {style.AwrisRichTextEditor}
+   Adding '4' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302164576014_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.btnPanel}
+      validating {btnStyle.bold}
+      validating {btnStyle.italic}
+      validating {btnStyle.underline}
+      validating {btnStyle.strikethrough}
+      validating {style.richTextArea}
+      validating {style.AwrisRichTextEditor}
+   Adding '4' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302164576124_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.btnPanel}
+      validating {btnStyle.bold}
+      validating {btnStyle.italic}
+      validating {btnStyle.underline}
+      validating {btnStyle.strikethrough}
+      validating {style.richTextArea}
+      validating {style.AwrisRichTextEditor}
+   Adding '4' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302165680692_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.btnPanel}
+      validating {btnStyle.bold}
+      validating {btnStyle.italic}
+      validating {btnStyle.underline}
+      validating {btnStyle.strikethrough}
+      validating {style.richTextArea}
+      validating {style.AwrisRichTextEditor}
+   Adding '4' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302165680833_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest.EditorTestUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      validating {style.btnPanel}
+      validating {btnStyle.bold}
+      validating {btnStyle.italic}
+      validating {btnStyle.underline}
+      validating {btnStyle.strikethrough}
+      validating {style.richTextArea}
+      validating {style.AwrisRichTextEditor}
+   Adding '4' new generated units
+      Removing invalidated units
+Rebinding awris.gwttest.client.EditorTest_EditorTestUiBinderImpl_designTime1302165689755_GenBundle
+   Adding '1' new generated units
+      Removing invalidated units

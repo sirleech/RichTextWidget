@@ -1,0 +1,131 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+	<ui:style>
+		.important {
+			font-weight: bold;
+		}
+		.AwrisRichTextEditor {
+			background-color: #CCCCFF;
+			border: 4px solid #000074;
+			padding: 2px;
+		}
+		.btnPanel ul {
+			left: 0px;
+			margin: 0px;
+			padding: 0px;
+			list-style: none;
+			border-top: 1px solid #FFFFFF;
+		}
+		.btnPanel ul li {
+			float:left;
+			margin:0;
+			padding:0;
+			
+			background: #dddddd;
+			margin: 0px;
+			padding: 5px 15px;
+			
+			border-left: 1px solid #FFFFFF;
+			border-top: 1px solid #FFFFFF;
+			border-right: 1px solid #AAAAAA;
+		}
+		.btnPanel ul li a {
+			color:#444444;
+		}
+		.richTextArea {
+			background: #FFFFFF;
+			width: 100%;
+			height: 500px;
+		}
+		.richTextArea h1 {
+			color: red;
+		}
+		.richTextArea h2 {
+			color: green;
+		}
+		.richTextArea h3 {
+			color: blue;
+		}
+		.richTextArea table {
+			border-collapse: seperate;
+			border: 1px solid red;
+		}
+		.richTextArea tr {
+			border: 1px solid green;
+		}
+		.richTextArea td {
+			border: 1px solid blue;
+		}
+	</ui:style>
+	<ui:style field='btnStyle'>
+		.bold {
+			font-weight: bold;
+		}
+		.italic {
+			font-weight: bold;
+			font-style: italic;
+		}
+		.underline {
+			font-weight: bold;
+			text-decoration: underline;
+		}
+		.strikethrough {
+			font-size: 85%;
+			font-weight: bold;
+			text-decoration: line-through;
+		}
+	</ui:style>
+	<g:HTMLPanel styleName="{style.AwrisRichTextEditor}">
+		<div class="{style.btnPanel}">
+			<ul>
+				<li title="Bold (Ctrl+B)">
+					<g:Anchor text="B" ui:field="btnBold" styleName="{btnStyle.bold}"/>
+				</li>
+				<li title="Italics (Ctrl+I)">	 
+					<g:Anchor text="I" ui:field="btnItalics" styleName="{btnStyle.italic}"/>
+				</li>
+				<li title="Underline (Ctrl+U)">
+					<g:Anchor text="U" ui:field="btnUnderline" styleName="{btnStyle.underline}"/>
+				</li>
+				<li title="Strikethrough (Ctrl+T)">
+					<g:Anchor text="ABC" ui:field="btnStrikeThrough" styleName="{btnStyle.strikethrough}"/>
+				</li>
+				<li title="Remove Formatting">
+					<g:Anchor text="Remove Formatting" ui:field="btnRemoveFormatting" styleName="{btnStyle.bold}"/>
+				</li>
+				<li title="Unordered List">
+					<g:Anchor text="Unordered List" ui:field="btnUnorderedList" styleName="{btnStyle.bold}"/>
+				</li>
+				<li title="Ordered List">
+					<g:Anchor text="Ordered List" ui:field="btnOrderedList" styleName="{btnStyle.bold}"/>
+				</li>
+				<li title="Undo (Ctrl+Z)">
+					<g:Anchor text="Undo" ui:field="btnUndo" styleName="{btnStyle.bold}"/>
+				</li>
+				<li title="Redo (Ctrl+Y)">
+					<g:Anchor text="Redo" ui:field="btnRedo" styleName="{btnStyle.bold}"/>
+				</li>
+				<li title="Heading 1 (Ctrl+1)">
+					<g:Anchor text="Heading 1" ui:field="btnHeading1" styleName="{btnStyle.bold}"/>
+				</li>
+				<li title="Heading 2 (Ctrl+2)">
+					<g:Anchor text="Heading 2" ui:field="btnHeading2" styleName="{btnStyle.bold}"/>
+				</li>
+				<li title="Heading 3 (Ctrl+3)">
+					<g:Anchor text="Heading 3" ui:field="btnHeading3" styleName="{btnStyle.bold}"/>
+				</li>
+				<li title="Add Table">
+					<g:Anchor text="Add Table" ui:field="btnAddTable" styleName="{btnStyle.bold}"/>
+				</li>
+				<li title="Add Image">
+					<g:Anchor text="Add Image" ui:field="btnAddImage" styleName="{btnStyle.bold}"/>
+				</li>
+			</ul>
+		</div>
+		<div style="clear: both; padding: 2px;" />
+		<div>
+			<g:RichTextArea ui:field="txtEditor" styleName="{style.richTextArea}"/>
+		</div>
+	</g:HTMLPanel>
+</ui:UiBinder>
